@@ -101,4 +101,4 @@ This dashboard helped the business quickly identify which categories and regions
 
 
 
-Screenshot:
+Screenshot:https://github.com/Maligeshravan/Sales-Dashboard/blob/main/Screenshot%20(5).png
